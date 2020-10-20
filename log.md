@@ -8,4 +8,4 @@ That way i hope to be more commited and have an easier way to log my daily progr
 
 **Thoughts:** Initial motivation is there, and fun to build many many things, the last times it failed, due to 'too much funs tuff to do' and not stick to a simple and reliable plan. Hopefully due to my collected 'drafts' i am able to complete and tick of many of these drafts as DaysOfCode projects.
 
-**DOC - Days Of Code Helper:** [DaysOfCodeHelper](https://github.com/georgduees/doc)
+**DOC - DaysOfCode Helper:** [DaysOfCodeHelper](https://github.com/georgduees/doc)
